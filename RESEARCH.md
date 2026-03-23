@@ -1,3 +1,12 @@
+---
+## ⚖️ Legal Notice & Ethical Conduct
+This research was conducted in a controlled environment on a personally owned **TP-Link Archer C20** router. The findings are intended to assist users in securing their home networks and to provide manufacturers with data to improve firmware security. 
+
+**Under no circumstances should this information or tool be used for:**
+* Accessing devices without written authorization.
+* Disrupting network services or causing data loss.
+* Any activity that violates local or international cyber laws.
+---
 # Deep Analysis: UPnP Vulnerabilities in SOHO Routers
 **Target:** TP-Link Archer C20 (libupnp 1.6.19)
 
